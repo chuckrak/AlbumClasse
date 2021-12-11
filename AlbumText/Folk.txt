@@ -1,0 +1,396 @@
+1
+Neutral Milk Hotel - In the Aeroplane Over the Sea
+2
+Nick Drake- Pink Moon
+3
+Bob Dylan - Highway 61 Revisited
+4
+Bob Dylan - Blonde on Blonde
+5
+Bob Dylan - Blood on the Tracks (1975)
+6
+Leonard Cohen - Songs of Leonard Cohen
+7
+Neil Young - After the Gold Rush (1970)
+8
+Bob Dylan - Bringing It All Back Home (1965)
+9
+Love - Forever Changes
+10
+Nick Drake - Five Leaves Left
+11
+Elliott Smith - Either/Or
+12
+Neil Young - On the Beach
+13
+Neil Young - Harvest (1972)
+14
+Van Morrison - Astral Weeks
+15
+Led Zeppelin - Led Zeppelin III
+16
+Bob Dylan - The Freewheelin' Bob Dylan
+17
+Leonard Cohen - Songs of Love and Hate
+18
+Joni Mitchell - Blue
+19
+Sufjan Stevens - Carrie & Lowell (2015)
+20
+The Microphones - The Glow, Pt. 2
+21
+Nick Drake - Bryter Later
+22
+Joanna Newsom - Ys
+23
+Van Morrison - Moondance
+24
+Comus - First Utterance
+25
+Neil Young - Tonight'S the Night (1975)
+26
+Crosby, Stills, Nash & Young - Déjà Vu
+27
+Simon and Garfunkel - Bridge Over Troubled Water
+28
+Agalloch - Ashes Against the Grain
+29
+Agalloch - The Mantle
+30
+Townes Van Zandt (1969)
+31
+Violent Femmes - Violent Femmes
+32
+The Band - The Band (1969)
+33
+Nico - Desertshore
+34
+Bruce Springsteen - Nebraska
+35
+Neil Young With Crazy Horse - Zuma
+36
+Bob Dylan - Desire
+37
+The Microphones - Mount Eerie
+38
+Tom Waits - Orphans: Brawlers, Bawlers & Bastards
+39
+Fleet Foxes - Fleet Foxes
+40
+Joanna Newsom - Have One on Me
+41
+John Fahey - Fare Forward Voyagers (Soldier's Choice)
+42
+Jackson C. Frank (1965)
+43
+Townes Van Zandt - Our Mother the Mountain (1969)
+44
+Sun Kil Moon – Ghosts of the Great Highway
+45
+Bon Iver - For Emma, Forever Ago
+46
+Fairport Convention - Liege and Lief
+47
+Elliott Smith - Elliott Smith
+48
+Bonnie 'Prince' Billy - I See a Darkness
+49
+Richard & Linda Thompson - I Want to See the Bright Lights Tonight
+50
+Exuma - Exuma
+51
+Robbie Basho - Visions of the Country
+52
+Tim Buckley - Starsailor
+53
+The Band - Music From Big Pink (1968)
+54
+Roy Harper - Stormcock
+55
+Simon and Garfunkel - Bookends
+56
+Van Morrison - Veedon Fleece
+57
+Joni Mitchell - Court and Spark (1974)
+58
+John Martyn - Solid Air
+59
+Tim Buckley - Happy Sad
+60
+Crosby, Stills & Nash - Crosby, Stills & Nash
+61
+Bob Dylan - John Wesley Harding
+62
+Bob Dylan - The Times They Are A-Changin'
+63
+The Pogues - Rum, Sodomy and the Lash
+64
+Cat Stevens - Tea for the Tillerman
+65
+Grateful Dead - American Beauty
+66
+Van Morrison - Saint Dominic's Preview
+67
+The Pogues - If I Should Fall From Grace With God (1988)
+68
+Pescado Rabioso - Artaud
+69
+Nico - The Marble Index
+70
+Mount Eerie - A Crow Looked at Me
+71
+Fairport Convention - Unhalfbricking
+72
+Primordial - To the Nameless Dead
+73
+Joanna Newsom - Divers
+74
+Sufjan Stevens - Greetings From Michigan: The Great Lakes State
+75
+The Byrds - Younger Than Yesterday
+76
+The Byrds - The Notorious Byrd Brothers
+77
+Harmonium - Si on Avait Besoin D'une Cinquieme Saison
+78
+Moonsorrow - Verisäkeet
+79
+Silvio Rodriguez - Al Final De Esta Viaje
+80
+Triana - El Patio
+81
+Bob Dylan - Another Side of Bob Dylan
+82
+Beck - Sea Change
+83
+Simon and Garfunkel - Parsley, Sage, Rosemary and Thyme
+84
+Bob Dylan - Time Out of Mind
+85
+Joanna Newsom - The Milk-Eyed Mender
+86
+Leonard Cohen - Songs From a Room (1969)
+87
+Fabrizio De André - Non Al Denaro Non All'amore Né Al Cielo
+88
+Leonard Cohen - New Skin for the Old Ceremony
+89
+Jethro Tull - Songs From the Wood
+90
+Rodriguez - Cold Fact
+91
+Songs: Ohia - Didn't It Rain
+92
+Le Mystère Des Voix Bulgares: Volume 1
+93
+Current 93 - Thunder Perfect Mind
+94
+Auktyon - Ptiza
+95
+Fleet Foxes - Helplessness Blues
+96
+Natural Snow Buildings - The Dance of the Moon and the Sun
+97
+Simon and Garfunkel - Sound of Silence
+98
+The Mountain Goats - All Hail West Texas
+99
+The Waterboys - This Is the Sea
+100
+Son House - Father of Folk Blues (1965)
+101
+Fabrizio De André - Storia Di Un Impiegato
+102
+Syd Barrett - The Madcap Laughs
+103
+Marek Grechuta - Korowód (1971)
+104
+Tim Buckley - Lorca
+105
+Muddy Waters - Folk Singer
+106
+Johnny Cash - American Recordings
+107
+Tim Buckley - Goodbye and Hello (1967)
+108
+Fabrizio De Andre - La Buona Novella
+109
+Buffalo Springfield - Buffalo Springfield Again
+110
+Agalloch - Pale Folklore
+111
+Songs:Ohia - The Lioness
+112
+John Prine - John Prine
+113
+The Waterboys - Fisherman's Blues
+114
+Cat Stevens - Teaser and the Firecat
+115
+Belchior - Alucinação
+116
+Moonsorrow - Kivenkantaja
+117
+Current 93 - All the Pretty Little Horses
+119
+John Fahey - Volume 6: Days Have Gone By
+120
+Nokturnal Mortum - Голос Сталі
+121
+David Crosby - If I Could Only Remember My Name
+122
+Animal Collective - Sung Tongs
+123
+The Mountain Goats - The Sunset Tree
+124
+Camarón - La Leyenda Del Tiempo
+125
+The Byrds - Fifth Dimension
+126
+Morente - Omega
+127
+Bob Dylan and the Band - Basement Tapes
+128
+Joni Mitchell - Ladies of the Canyon
+129
+Sufjan Stevens - Seven Swans
+130
+Moonsorrow - V: Hävitetty
+131
+The Mountain Goats - Tallahassee
+132
+John Fahey - America
+133
+Vashti Bunyan - Just Another Diamond Day
+134
+Grateful Dead - Workingman's Dead
+135
+Primordial - The Gathering Wilderness
+136
+Nitty Gritty Dirt Band - Will the Circle Be Unbroken (1972)
+137
+John Fahey - Volume II: Death Chants, Breakdowns and Military Waltzes
+138
+The Byrds - Mr. Tambourine Man
+139
+Fabrizio De André - Crêuza De Mä
+140
+Marty Robbins - Gunfighter Ballads and Trail Songs
+141
+Pentangle - Basket of Light (1969)
+142
+John Fahey - The Transfiguration of Blind Joe Death
+143
+Catherine Ribeiro + Alpes - Paix
+144
+Paul Simon - Paul Simon
+145
+Richard and Linda Thompson - Shoot Out the Lights
+147
+Fabrizio De Andre - Tutti Morimmo a Stento
+148
+Judee Sill - Heart Food
+149
+John Fahey - The Yellow Princess (1968)
+150
+ROME - Flowers From Exile
+151
+Jethro Tull - Heavy Horses
+152
+Linda Perhacs - Parallelograms
+153
+Nico - Chelsea Girl (1967)
+154
+Gillian Welch - The Revelator
+155
+Mississippi John Hurt - Today!
+156
+Fairport Convention - What We Did on Our Holidays
+157
+Tenhi - Maaäet
+158
+Lula Côrtes E Zé Ramalho - Paêbirú (1975)
+159
+Elliott Smith - Roman Candle
+160
+Fabrizio De André - Anime Salve
+161
+Catherine Ribeiro + Alpes - Ame Debout (1971)
+162
+Леонид Фёдоров - Лиловый День
+163
+Françoise Hardy - La Question
+164
+БГ - Русский Альбом
+165
+Songs: Ohia - Ghost Tropic
+166
+Fotheringay - Fotheringay
+167
+Steeleye Span - Hark the Village Wait
+168
+Orphaned Land - Mabool
+169
+Silvio Rodriguez - Días Y Flores
+170
+Carlos Paredes - Guitarra Portuguesa
+171
+Leo Kottke - 6 & 12 String Guitar (1969)
+172
+Death in June - But, What Ends When the Symbols Shatter?
+173
+Tim Buckley - Blue Afternoon
+174
+Richard and Linda Thompson - Pour Down Like Silver
+175
+Los Jaivas - Alturas De Machu Picchu
+176
+Jethro Tull - Minstrel in the Gallery
+177
+John Martyn - Bless the Water
+178
+Grouper - Dragging a Dead Deer Up a Hill
+179
+Nacho Vegas - Desaparezca Aquí
+180
+Nacho Vegas - Cajas De Música Difíciles De Parar
+181
+Cat Power - You Are Free
+182
+José Afonso - Cantigas Do Maio
+183
+Nature and Organisation - Beauty Reaps the Blood of Solitude
+184
+Sun Kil Moon - Benji
+185
+Billy Fay - Time of the Last Persecution
+186
+Grizzly Bear - Veckatimest
+187
+Joan Manuel Serrat - Mediterráneo (1971)
+188
+Okkervil River - Black Sheep Boy
+189
+Magnolia Electric Co. - Sojourner
+190
+Woven Hand - Woven Hand
+191
+Vàli - Forlatt
+192
+The Decemberists - The Crane Wife
+193
+Van Morrison - Into the Music
+194
+Fausto - Por Este Rio Acima
+195
+Nacho Vegas - Actos Inexplicables
+196
+Moonsorrow - Voimasta Ja Kunniasta
+197
+Manassas - Manassas (1972)
+198
+Van Morrison - Tupelo Honey
+199
+Beth Gibbons & Rustin Man - Out of Season
+200
+Milton Nascimento - Geraes
